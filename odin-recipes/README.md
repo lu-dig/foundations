@@ -1,5 +1,5 @@
 # Project: Recipes
-<p>Creation of a very basic recipe website with HTML by following the steps as indicated below.</p>
+<p>Creation of a very basic recipe website with only <strong>HTML</strong> by following the steps as indicated below.</p>
 <p align="center">
 <img src="https://i.ibb.co/tHcxyRS/instructions.png">
 </p>
