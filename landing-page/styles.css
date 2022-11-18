@@ -174,3 +174,10 @@ header {
 .cta-signup {
   border: 2px solid #f9faf8;
 }
+
+footer {
+  background: #1f2937;
+  color: #f9faf8;
+  padding: 50px 0;
+  text-align: center;
+}
