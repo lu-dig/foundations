@@ -28,7 +28,6 @@ li > a {
   margin-right: auto;
   padding-left: 16px;
   padding-right: 16px;
-  /* border: 2px solid red; */
 }
 
 header {
@@ -111,7 +110,6 @@ header {
   width: 800px;
   margin-left: auto;
   margin-right: auto;
-  /* border: 2px solid red; */
 }
 
 .box {
@@ -124,7 +122,6 @@ header {
 .box-wrapper {
   text-align: center;
   width: 150px;
-  /* border: 3px solid red; */
 }
 
 .quote-wrapper,
@@ -132,7 +129,6 @@ header {
   width: 800px;
   margin-left: auto;
   margin-right: auto;
-  /* border: 2px solid red; */
 }
 
 .quote {
@@ -166,7 +162,6 @@ header {
 }
 
 .cta-signup-wrapper {
-  /* border: 2px solid red; */
   display: flex;
   justify-content: space-between;
 }
