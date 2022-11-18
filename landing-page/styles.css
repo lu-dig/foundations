@@ -34,6 +34,7 @@ li > a {
 header {
   background: #1f2937;
   padding-top: 20px;
+  padding-bottom: 150px;
 }
 
 .top {
@@ -66,9 +67,10 @@ header {
   padding-bottom: 10px;
 }
 
-.signup {
+.signup,
+.cta-signup {
   background: #3882f6;
-  border-radius: 5px;
+  border-radius: 8px;
   border-style: none;
   color: #f9faf8;
   width: 120px;
@@ -89,4 +91,86 @@ header {
   text-align: center;
   width: 100%;
   color: #f9faf8;
+}
+
+.info-wrapper > h2 {
+  padding: 50px 0;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 800;
+  color: #1f2937;
+}
+
+.info-container {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 100px;
+}
+
+.info-wrapper {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  /* border: 2px solid red; */
+}
+
+.box {
+  height: 150px;
+  width: 150px;
+  border: 3px solid #3882f6;
+  border-radius: 10px;
+}
+
+.box-wrapper {
+  text-align: center;
+  width: 150px;
+  /* border: 3px solid red; */
+}
+
+.quote-wrapper,
+.cta-wrapper {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  /* border: 2px solid red; */
+}
+
+.quote {
+  padding: 100px 0;
+  display: flex;
+  background: #e5e7eb;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  columns: #1f2937;
+}
+
+.author {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.cta {
+  background: #3882f6;
+  padding: 50px 100px;
+  border-radius: 10px;
+  border-style: none;
+  color: #f9faf8;
+}
+
+.cta-container {
+  padding: 100px 0;
+}
+
+.cta-signup-wrapper {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.cta-signup {
+  border: 2px solid #f9faf8;
 }
