@@ -164,6 +164,7 @@ header {
 .cta-signup-wrapper {
   display: flex;
   justify-content: space-between;
+  align-items: flex-end;
 }
 
 .cta-signup {
